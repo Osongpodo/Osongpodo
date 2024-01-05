@@ -9,6 +9,11 @@
     <img src="http://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white&link=https://qwldnjsp10@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+</a>
+<a href="https://velog.io/@osongpodo/">
+    <img src="http://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@osongpodo/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 <!--[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=osongpodo)](https://velog.io/@osongpodo)-->
 
