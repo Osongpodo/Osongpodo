@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Osongpodo's%20GitHub%20👩🏻‍💻&animation=fadeIn&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:859398,100:1b2030&text=Osongpodo's%20GitHub&animation=fadeIn&fontColor=ffffff&fontSize=30&fontAlignY=40&fontAlign=70&height=250)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOsongpodo&count_bg=%23A64E4E&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Gitjub&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOsongpodo&count_bg=%23292B46&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Osongpodo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Osongpodo&show_icons=true&include_all_commits=true&title_color=ffffff&text_color=ffffff&icon_color=a86a6a&bg_color=60,f0d3d3,7d4343&hide_border=true&count_private=true)](https://github.com/Osongpodo/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Osongpodo&title_color=ffffff&text_color=ffffff&icon_color=a86a6a&bg_color=60,f0d3d3,7d4343&layout=compact)
+![Osongpodo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Osongpodo&hide=contribs,prs&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=627585&bg_color=0,283048,859398&hide_border=true&count_private=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Osongpodo&title_color=ffffff&text_color=ffffff&icon_color=627585&bg_color=0,283048,859398&layout=compact)
