@@ -15,7 +15,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-![Osongpodo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Osongpodo&hide=contribs,prs&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=627585&bg_color=0,283048,859398&hide_border=true&count_private=true)
+![Osongpodo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Osongpodo&hide=prs&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=627585&bg_color=0,283048,859398&hide_border=true&count_private=true)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=osongpodo)](https://velog.io/@osongpodo)
 
